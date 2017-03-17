@@ -1,3 +1,3 @@
 # Isle of Ruby
 
-Please see [https://github.com/isleofruby/content/wiki](the Wiki).
+Please see [the Wiki](https://github.com/isleofruby/content/wiki).
